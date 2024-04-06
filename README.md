@@ -15,5 +15,16 @@ this image for number 1 to number 3
 
 7. create new PR
 
+![alt text](image-2.png)
+
+8. merge PR 
+
+![alt text](image-3.png)
+
+
+9. in git lens
+
+![alt text](image-4.png)
+
 
 
